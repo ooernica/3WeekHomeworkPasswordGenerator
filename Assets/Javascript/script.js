@@ -5,6 +5,9 @@ function generatePassword() {
   console.log("Click to generate a password")
 
   let charLeg = prompt("Choose character length from 8 to 128");
+  while (charLeg <8 || charLeg >128 || isNaN (charLeg)) {
+    charLeg = prompt ("ERROR!! Must be a NUMBER and number must be from 8 to 128")
+  } 
   let special = confirm ("Use special characters? \nOkay for yes, Cancel for no")  
   let num = confirm ("Use numbers? \nOkay for yes, Cancel for no")
   let lower = confirm ("Use lowercase characters? \nOkay for yes, Cancel for no")
