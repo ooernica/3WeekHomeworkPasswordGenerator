@@ -75,10 +75,11 @@ function generatePassword() {
   }
 
   let pass=randomCharAll+genPass;
-  return pass;
 
-  // return genPass;
+  let finalPass = pass.split('').sort(function(){return 0.5-Math.random()}).join('');
 
+
+  return finalPass;
   
 
 

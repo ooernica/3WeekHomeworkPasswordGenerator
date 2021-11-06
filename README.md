@@ -27,8 +27,9 @@ Received building block CSS, HTML. Created an application that generated passwor
     THEN the password is either displayed in an alert or written to the page
 
 # Contributors
-
+CJ Sanders and Kirtley Adams 
 # Sources
 https://www.youtube.com/watch?v=x4HUaiazDes
+https://stackoverflow.com/questions/1497481/javascript-password-generator
 
 # Screenshot
