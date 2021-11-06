@@ -30,6 +30,9 @@ Received building block CSS, HTML. Created an application that generated passwor
 CJ Sanders and Kirtley Adams 
 # Sources
 https://www.youtube.com/watch?v=x4HUaiazDes
+
 https://stackoverflow.com/questions/1497481/javascript-password-generator
 
 # Screenshot
+
+![Screenshot 2021-11-06 172749](https://user-images.githubusercontent.com/91104984/140626816-33f53db9-b5fb-40a3-b64e-5c4e76174c19.png)
