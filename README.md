@@ -1,5 +1,5 @@
 # 3WeekHomeworkPasswordGenerator
-By : Erna Lukac
+By : Erna Lukač
 
 # Built With 
 HTML, CSS, & JavaScript
